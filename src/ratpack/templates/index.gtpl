@@ -18,7 +18,7 @@ html {
 
     section {
       h2 title
-      p 'This is the my page for test Ratpack app.'
+      p 'This is the my hask for test Ratpack app.'
     }
 
     footer {}
