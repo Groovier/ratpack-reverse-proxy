@@ -18,7 +18,7 @@ html {
 
     section {
       h2 title
-      p 'This is the main page for our Ratpack app.'
+      p 'This is the main page for test Ratpack app.'
     }
 
     footer {}
